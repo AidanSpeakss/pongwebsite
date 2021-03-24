@@ -1,2 +1,2 @@
 # pongwebsite
-told you so lol
+New website for PONG, a network gaming group at UW-Stout.
